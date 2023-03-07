@@ -5,30 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b570f8b-c5ac-4064-983d-755cf51c64cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/collections/CollectionsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/instanceOf/AbstractFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/instanceOf/InstanceOfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/instanceOf/MusicFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/instanceOf/VideoFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/nullpointerEx/NullPointerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/records/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/records/PersonRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/records/RecordsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/sealed_classes/AudioFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/sealed_classes/Drive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/sealed_classes/HDDDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/sealed_classes/MP3File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/switchcase/SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/textblock/TextBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/features/varExample/VarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle-tutorial/src/main/java/com/aditya/language_app/SayHello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle-tutorial/src/main/resources/en.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle-tutorial/src/main/resources/esp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle-tutorial/src/test/java/com/aditya/language_app/SayHelloTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle-tutorial/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle-tutorial/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle-tutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle-tutorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle-tutorial/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle-tutorial/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle-tutorial/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/1037872/Downloads/Projects/MyProjects/java-17",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RunManager" selected="Application.CollectionsExample">
@@ -164,6 +148,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

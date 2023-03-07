@@ -1,9 +1,16 @@
 plugins {
     id 'java'
 }
-
-group 'org.example'
+group 'com.aditya'
 version '1.0-SNAPSHOT'
+
+//Let java know what class within a jar file to run i.e. main class
+//it creates a manifest file within a jar for that.
+jar {
+    manifest {
+        attributes('Main-Class':'com.aditya.language_app.SayHello')
+    }
+}
 
 repositories {
     mavenCentral()
