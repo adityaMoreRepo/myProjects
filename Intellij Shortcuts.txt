@@ -1,0 +1,19 @@
+Productivity: 
+switching tabs: alt + tabe 
+access to all the sections and tabs : ctrl + e
+switch to project files pane: alt+1 => to close the project pane alt+1 again 
+similarly can access other sections using alt + different numbers
+escape to editor : esc
+search in file : ctrl + f
+search in project : ctrl + shift + f
+search class: ctrl + n
+serach files : ctrl + shift n
+go the the source of class : ctrl + b or simply cntrl + mouse click
+go to the implementations : ctrl + shift + b or cntl + shift + mouse click
+
+Code Editing: 
+creating getter,setter, constructor etc : alt + insrt
+selecting : ctrl + W 
+
+Code Refractoring
+
