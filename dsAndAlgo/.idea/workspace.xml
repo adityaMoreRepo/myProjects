@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c28590e4-3a84-49e4-859d-3698876aeb6a" name="Changes" comment="&quot;Initial Commit&quot;">
-      <change beforePath="$PROJECT_DIR$/../design-pattern/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../design-pattern/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../design-pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../design-pattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/dsa/problems/arrays/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dsa/problems/arrays/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +62,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/1037872/Downloads/Projects/MyProjects/dsAndAlgo",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -74,7 +74,7 @@
       <command value="gradle build" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.dsAndAlgo [build]">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.dsa.problems.arrays.Test" />
       <module name="dsAndAlgo.main" />
