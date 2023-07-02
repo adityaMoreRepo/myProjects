@@ -11,7 +11,7 @@ public class TestForStreams {
         List<Integer> integerList = numbers.stream()
                 .map(s -> Integer.valueOf(s))
                 .collect(Collectors.toList());
-        integerList.forEach(i -> System.out.println(i));
+        integerList.forEach(System.out::println);
 //        for (Integer integer : integerList) {
 //            System.out.println(integer);
 //        }
