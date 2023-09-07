@@ -1,0 +1,4 @@
+name: "ratings-data-service"
+appmap_dir: "target/appmap"
+packages:
+- path: "com.microservices.project.ratingsdataservice"
