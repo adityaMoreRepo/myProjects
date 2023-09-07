@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b570f8b-c5ac-4064-983d-755cf51c64cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tests/TrialErrorTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/com/microservices/project/moviecatalogservice/models/CatalogItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/com/microservices/project/moviecatalogservice/models/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/com/microservices/project/moviecatalogservice/models/Rating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/com/microservices/project/moviecatalogservice/models/UserRating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/com/microservices/project/moviecatalogservice/resources/MovieCatalogResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../movie-info-service/src/main/java/com/microservices/project/movieinfoservice/models/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../movie-info-service/src/main/java/com/microservices/project/movieinfoservice/resources/MovieInfoResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ratings-data-service/appmap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ratings-data-service/src/main/java/com/microservices/project/ratingsdataservice/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ratings-data-service/src/main/java/com/microservices/project/ratingsdataservice/models/Rating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ratings-data-service/src/main/java/com/microservices/project/ratingsdataservice/models/UserRating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ratings-data-service/src/main/java/com/microservices/project/ratingsdataservice/resources/RatingDataResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ratings-data-service/src/test/java/com/microservices/project/ratingsdataservice/resources/RatingDataResourceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/com/microservices/project/moviecatalogservice/MovieCatalogServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/com/microservices/project/moviecatalogservice/MovieCatalogServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie-info-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-info-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie-info-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-info-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ratings-data-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ratings-data-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ratings-data-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ratings-data-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-demo/src/test/java/com/example/springbootdemo/SpringBootDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-demo/src/test/java/com/example/springbootdemo/SpringBootDemoApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="7b570f8b-c5ac-4064-983d-755cf51c64cc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/1037872/Downloads/Projects/MyProjects/java-17",
+    "last_opened_file_path": "C:/Users/1037872/IdeaProjects/myProjects/java-functional-programming",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
