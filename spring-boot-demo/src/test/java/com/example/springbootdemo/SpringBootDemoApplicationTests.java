@@ -12,4 +12,18 @@ class SpringBootDemoApplicationTests {
 	void contextLoads() {
 	}
 
+    @ParameterizedTest
+    @ValueSource(strings = {"test", "testString", "testString:default"})
+    void testValueAnnotationTesting(String testString) {
+        System.out.println(testString);
+
+    }
+
+    @Test
+    void testValueAnnotationTesting() {
+        System.out.println("testString:default");
+    }
+
+
+
 }

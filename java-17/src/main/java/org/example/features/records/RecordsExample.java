@@ -14,5 +14,12 @@ public class RecordsExample {
         //How to access the members
         System.out.println(John.getName());
         System.out.println(Aditya.name());
+        //Using builder pattern
+        PersonRecord Vedant = new PersonRecord
+                .PersonBuilder()
+                .age(18)
+                .name("Vedant")
+                .build();
+        System.out.println(Vedant.name());
     }
 }

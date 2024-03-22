@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b570f8b-c5ac-4064-983d-755cf51c64cc" name="Changes" comment="" />
+    <list default="true" id="7b570f8b-c5ac-4064-983d-755cf51c64cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collections/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collections/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-demo/src/main/java/com/example/springbootdemo/concurrency/ConcurrrencyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-demo/src/main/java/com/example/springbootdemo/demoClass/BlogPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-demo/src/main/java/com/example/springbootdemo/main/CollectionDemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-demo/src/main/java/com/example/springbootdemo/properties/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-demo/src/main/java/com/example/springbootdemo/properties/PropertiesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-demo/src/main/resources/app.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/features/records/PersonRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/features/records/PersonRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/features/records/RecordsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/features/records/RecordsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tests/TrialErrorTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-demo/src/test/java/com/example/springbootdemo/SpringBootDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-demo/src/test/java/com/example/springbootdemo/SpringBootDemoApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Record" />
         <option value="Interface" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -25,6 +40,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2MaVyh4hL8EwXbEGdDMoeeIqqGT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,10 +55,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Collections.executor": "Run",
+    "Application.RecordsExample.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/1037872/IdeaProjects/myProjects/java-functional-programming",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -47,13 +69,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TrialErrorTests">
-    <configuration name="CollectionsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.features.collections.CollectionsExample" />
+  <component name="RunManager" selected="Application.Collections">
+    <configuration name="Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collections.Collections" />
       <module name="java-17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.features.collections.*" />
+          <option name="PATTERN" value="org.example.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestForStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.features.test.TestForStreams" />
+    <configuration name="RecordsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.features.records.RecordsExample" />
       <module name="java-17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.features.test.*" />
+          <option name="PATTERN" value="org.example.features.records.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +123,11 @@
       </method>
     </configuration>
     <configuration name="TrialErrorTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.tests.TrialErrorTests" />
+      <option name="MAIN_CLASS_NAME" value="org.example.collections.TrialErrorTests" />
       <module name="java-17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.tests.*" />
+          <option name="PATTERN" value="org.example.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Collections" />
+        <item itemvalue="Application.RecordsExample" />
         <item itemvalue="Application.TrialErrorTests" />
         <item itemvalue="Application.FunctionDemo" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TestForStreams" />
-        <item itemvalue="Application.CollectionsExample" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +155,9 @@
       <updated>1678005937052</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.configurationType" implementationName="com.diffblue.cover.write-tests-run-configuration" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
